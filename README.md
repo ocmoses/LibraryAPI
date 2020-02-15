@@ -10,7 +10,7 @@ This is just a test to simulate requesting a book from a library. The requests a
     This is the server used to serve the files
 -   ### MySQL Database
 
-    The chosen database is MYSQL. A vrsion 5.7 or higher is fine.
+    The chosen database is MYSQL. A version 5.7 or higher is fine.
 
 -   ### You can get all these by downloading and installing XAMPP: [Download](https://www.apachefriends.org/download.html)
 -   ### composer
@@ -85,7 +85,7 @@ The following commands will get the project up and running:
     to start the server on `localhost:8000`
 
 Go to `http://localhost:8000` in your browser
-Your database has been prepopulated with four yours with the following credentials:
+Your database has been prepopulated with four users with the following credentials:
 
 -   ```bash
     username: teacher@library.com
