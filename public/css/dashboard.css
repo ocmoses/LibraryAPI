@@ -1,0 +1,25 @@
+tr button {
+    width: 100% !important;
+}
+
+tr .send {
+    display: none;
+}
+
+.progress-screen {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1000;
+    background-color: rgba(255, 255, 255, 0.7);
+    align-items: center;
+    display: none;
+}
+
+#infoModal #modal-message {
+    padding-top: 50px;
+    text-align: center;
+    font-weight: bold;
+}
